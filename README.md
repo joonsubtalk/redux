@@ -1,2 +1,2 @@
-# finance
+# redux template
 tis an app
